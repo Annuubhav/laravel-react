@@ -1,3 +1,5 @@
+Presiquite :- Phpv >= 7.3
+
 Installation Steps
 
 1. Rename .env.example with .env

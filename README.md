@@ -5,7 +5,8 @@ Installation Steps
 1. Rename .env.example with .env
 2. Create a database with name laravel_react
 3. Update  database details in .env file. Like host or username
-4. run following commands
+4. Update the APP_URL & API_URL in the .env file
+5. run following commands
 
 - composer install
 - php artisan migrate
